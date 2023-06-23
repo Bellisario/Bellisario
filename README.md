@@ -11,7 +11,7 @@
 
 # Giorgio Bellisario
 
-## Hobbyst developer 💻
+## Hobbyist developer 💻
 
 > I'm Svelte, and you?
 
