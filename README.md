@@ -25,6 +25,12 @@ Follow me on twitter: [@GiorgioBellix](https://twitter.com/@GiorgioBellix)
 
 <img src="https://img.shields.io/npm/dm/hostname-patcher" />
 
+### `svelte-hash`
+
+[Repository](https://github.com/Bellisario/svelte-hash)
+
+<img src="https://img.shields.io/npm/dm/svelte-hash" />
+
 ## Considerable projects 🚧
 
 - [Musicale](https://github.com/Bellisario/musicale) => my web music player built with Svelte
